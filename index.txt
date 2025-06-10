@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Inspired On the Water</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Inspired On the Water</h1>
+    <p>Empowering Veterans Through Fly Fishing</p>
+    <a class="cta" href="#contact">Join Us on the Water</a>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#programs">Programs</a></li>
+      <li><a href="#gallery">Gallery</a></li>
+      <li><a href="#contact">Contact</a></li>
+      <li><a href="#get-involved">Get Involved</a></li>
+    </ul>
+  </nav>
+
+  <section id="about">
+    <h2>About</h2>
+    <p>We provide hands-on opportunities for disabled veterans to experience the therapeutic world of fly fishing—from building rods and lures to casting lines on peaceful waters.</p>
+  </section>
+
+  <section id="programs">
+    <h2>Programs</h2>
+    <ul>
+      <li><strong>Rod Building Workshops</strong> – Learn to craft personalized fly rods.</li>
+      <li><strong>Lure Crafting Sessions</strong> – Design and create your own flies.</li>
+      <li><strong>Guided Fishing Days</strong> – Join fellow veterans on calm waters for unforgettable trips.</li>
+    </ul>
+  </section>
+
+  <section id="gallery">
+    <h2>Gallery</h2>
+    <p>Photos and stories coming soon!</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p><strong>Jim Jones</strong></p>
+    <p>Phone: 555-6464</p>
+    <form>
+      <input type="text" placeholder="Your Name" required />
+      <input type="email" placeholder="Your Email" required />
+      <textarea placeholder="Message" required></textarea>
+      <button type="submit">Send</button>
+    </form>
+  </section>
+
+  <section id="get-involved">
+    <h2>Get Involved</h2>
+    <p>More info coming soon. Stay tuned!</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Inspired On the Water | Built by and for veterans</p>
+  </footer>
+</body>
+</html>
